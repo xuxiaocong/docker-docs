@@ -17,14 +17,17 @@ Docker version 20.10.7, build f0df350
 
 ### 已完成
 
+* [Docker overview - 概述](/1.Docker%20overview.md)
+
 ### 翻译中
 
-* Docker overview - 概述
+
 
 ### 未开始
 
-* Get Docker
-  * Part 1: Getting started
+* [Get Docker](/2.Get%20Docker.md)
+* [Get started](/3.Get%20started.md)
+  * [Part 1: Getting started](/3.1.Part%201%20%20Getting%20started.md)
   * Part 2: Sample application
   * Part 3: Update the application
   * Part 4: Share the application
