@@ -19,19 +19,20 @@ Docker version 20.10.7, build f0df350
 
 * [Docker overview - 概述](/1.Docker%20overview.md)
 * [Get Docker - 获取 Docker](/2.Get%20Docker.md)
+* Get started - 手把手教程
+  * [Part 1: Getting started - 方向和设置](/3.1.Part%201%20%20Getting%20started.md)
 
 ### 翻译中
 
 * Get started - 手把手教程
-  * [Part 1: Getting started - 方向和设置](/3.1.Part%201%20%20Getting%20started.md)
+  * [Part 2: Sample application - 简单app](/3.2.Part%202%20%20Sample%20application.md)
 
 ### 未开始
 
 
 * Get started - 手把手教程
-  * Part 2: Sample application
-  * Part 3: Update the application
-  * Part 4: Share the application
+  * [Part 3: Update the application](/3.3.Part%203%20%20Update%20the%20application.md)
+  * [Part 4: Share the application](/3.4.Part%204%20%20Share%20the%20application.md)
   * Part 5: Persist the DB
   * Part 6: Use bind mounts
   * Part 7: Multi-container apps
