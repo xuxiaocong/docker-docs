@@ -25,7 +25,7 @@ Docker version 20.10.7, build f0df350
 ### 翻译中
 
 * Get started - 手把手教程
-  * [Part 2: Sample application - 简单app](/3.2.Part%202%20%20Sample%20application.md)
+  * [Part 2: Sample application - 简单app示例](/3.2.Part%202%20%20Sample%20application.md)
 
 ### 未开始
 
